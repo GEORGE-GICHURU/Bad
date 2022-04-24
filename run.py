@@ -1,5 +1,5 @@
 '''
-Run Module by George Gichurucu
+Run Module by George Gichuru
 This is the file that runs the application
 Import User Class from User Module and Credential Class from Credential Module
 '''
