@@ -60,6 +60,10 @@ No known bugs
 
 Python3.9
 
+# Contact Information
+
+gichurugeorge092@gmail.com
+
 # License
 
 MIT (c) 2022
