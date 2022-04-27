@@ -52,7 +52,7 @@ Display a specific users credential. | N/A | list of users credential |
 -----------------------------------------------------------------------
 Generate a password for a new credential. | Account password locker | Generate a password for the user.|
 -------------------------------------------------------------------------------------------------
-Create and save the user's credential with the generated password
+Create and save the user's credential with the generated password | save the password |
 
 Log out. | N/A | log out to the users page |
 -------------------------------------------------------------------------------------------------
