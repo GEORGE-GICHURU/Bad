@@ -32,9 +32,9 @@ The short codes are:
 
 As a user i would like:
 
-1.To create an account with my details - log in and password 
-2.Store my existing credentials
-3.Generate a password for a new credential.
+1.To create an account with my details - log in and password .
+2.Store my existing credentials.
+3.Generate a password for a new credential..
 
 # Specifications
 
