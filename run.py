@@ -184,6 +184,8 @@ Use these short codes to get around''')
             else:
 
                 user_log_in(user_name,user_password)
+                user_log_in(user_name,user_password)
+                user_log_in(user_name,user_password)
                 print("\n")
                 print(f'''{user_name} welcome to your Credentials\n
                 Use these short codes to get around''')
