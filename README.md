@@ -38,13 +38,24 @@ As a user i would like:
 
 # Specifications
 
-Create an account.
-Display account names.
-Log into an account.
-Store existing log in credential.
-Display a specific users credential.
-Generate a password for a new credential.
-Log out.
+Behavior          |     Input                     |     Outcome          |
+-------------------------------------------------------------------------
+Create an account.| userName: John, Password:doe, | An account is created.|
+--------------------------------------------------------------------------
+Display account names. | N/A  |  Display a list of usernames for password locker accounts|
+------------------------------------------------------------------------------------------
+Log into an account. | userName: John, Password:doe, | Log in into the users account |
+------------------------------------------------------------------------------------------
+Store existing log in credential. | Acoount; git, Password: doe1, | Create and save users credential
+----------------------------------------------------------------------------------------------------
+Display a specific users credential. | N/A | list of users credential |
+-----------------------------------------------------------------------
+Generate a password for a new credential. | Account password locker | Generate a password for the user.|
+-------------------------------------------------------------------------------------------------
+Create and save the user's credential with the generated password
+
+Log out. | N/A | log out to the users page |
+-------------------------------------------------------------------------------------------------
 
 # Prerequisites
 
