@@ -1,6 +1,6 @@
 
 '''
-Password Locker Test by Carol Wanjohi
+Password Locker Test by George Gichuru
 import uniittest to create uniittests for Password Locker Module
 import Password Locker Module to be tested
 '''
